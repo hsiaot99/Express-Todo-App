@@ -24,6 +24,4 @@ This will output:
 Server is running on port 8000
 
 2. Accessing Routes:
-
-Todo Routes:
-   - Defined in routes/todo.js, accessible from http://localhost:8000/.
+   - Todo Routes:Defined in routes/todo.js, accessible from http://localhost:8000/.
