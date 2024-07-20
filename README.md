@@ -16,12 +16,6 @@ This project is an Express.js application that connects to MongoDB, handles todo
    - Mongoose (optional): MongoDB object modeling tool (if using Mongoose for MongoDB interactions)
 
 ## Usage
-1. Starting the Server: The server is started by running index.js:
-`bash`
-node index.js
-This will output:
-`arduino`
-Server is running on port 8000
-
+1. Starting the Server: The server is started by running `index.js`.
 2. Accessing Routes:
-   - Todo Routes:Defined in routes/todo.js, accessible from http://localhost:8000/.
+   - Todo Routes: Defined in routes/todo.js, accessible from http://localhost:8000/.
