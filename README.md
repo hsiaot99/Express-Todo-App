@@ -19,3 +19,5 @@ This project is an Express.js application that connects to MongoDB, handles todo
 1. Starting the Server: The server is started by running `index.js`.
 2. Accessing Routes:
    - Todo Routes: Defined in routes/todo.js, accessible from http://localhost:8000/.
+
+Ref. https://www.udemy.com/course/all-you-need-to-know-nodejs-with-practical-project/learn/lecture/40367460?start=75#overview
