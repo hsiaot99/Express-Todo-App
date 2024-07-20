@@ -19,11 +19,9 @@ Starting the Server:
 
 The server is started by running index.js:
 bash
-複製程式碼
 node index.js
 This will output:
 arduino
-複製程式碼
 Server is running on port 8000
 Accessing Routes:
 
